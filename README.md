@@ -4,6 +4,22 @@
 
 ` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
+## I have a member class, it has a method on it called facebook, you will also need the user_photos permission
+#
+#  def facebook
+#    @facebook ||= Koala::Facebook::API.new facebook_auth.credentials.token if facebook?
+#  end
+#
+##
+
+user=User.last
+
+result = user.facebook.fql_multiquery({
+  "query1" => "SELECT object_id FROM album WHERE owner = me() and type='profile'",
+  "query2" => "SELECT cover_object_id FROM album WHERE object_id IN (SELECT object_id FROM #query1)"
+})
+user.facebook.get_picture(result['query2'][0]['cover_object_id'])
+
 
 ### Hi there 👋 
 
