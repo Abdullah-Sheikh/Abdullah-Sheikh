@@ -57,7 +57,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded-1 mr-3" width="64" height="64" alt="eslint">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
  <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" class="rounded-1 mr-3" width="64" height="64" alt="graphql">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" class="rounded-1 mr-3" width="64" height="64" alt="gulp">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" class="rounded-1 mr-3" width="64" height="64" alt="gulp">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" class="rounded-1 mr-3" width="64" height="64" alt="homebrew">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql">
