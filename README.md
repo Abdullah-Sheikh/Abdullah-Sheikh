@@ -2,14 +2,16 @@
 ## 🔭 Android and Web Developer [![HitCount](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh.svg)](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh)
 
 
-` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <img src="https://avatars3.githubusercontent.com/u/357098" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
-<img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+|<img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+
+|<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+
+|<img src="https://img.icons8.com/ios-filled/50/000000/quora.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+|
 
 
-<a href="default.asp"><img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png" alt="HTML tutorial" style="width:15px;height:15px;"></a>
-<a href="default.asp"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="HTML tutorial" style="width:25px;height:25px;"></a>
-<a href="default.asp"><img src="https://img.icons8.com/ios-filled/50/000000/quora.png" alt="HTML tutorial" style="width:25px;height:25px;"></a>
 
 
 ### Hi there 👋 
