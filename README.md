@@ -1,22 +1,16 @@
 
-## 🔭 Front End Developer [![HitCount](http://hits.dwyl.com/muhraff/muhraff.svg)](http://hits.dwyl.com/muhraff/muhraff)
-
-` 😄 Muhammad Rafi` |  `🌱 Melbourne, Australia` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/muhammedrafi/`
+## 🔭 Android and Web Developer [![HitCount](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh.svg)](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh)
 
 
-
-### Hi there 👋 
+` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
 
 
-A seasoned and creative frontend developer with 8+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
-
- 
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, React, Redux, Shopify, Wordpress, Laravel, Photoshop`.
+💬 `Html, CSS,Php ,MySQL,Oracle,C/C++ progrmming, JavaScript, Angular, Ionic , Android Studio , Wordpress`.
 
 📖 ` Node / Express`
 
@@ -83,13 +77,13 @@ A seasoned and creative frontend developer with 8+ years of experience leveragin
 
 
 ### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/muhraff) since i added this profile <br>
-The green dots on my [**GitHub** profile](https://github.com/muhraff=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
+Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=muhraff.visitor-badge)](https://github.com/Abdullah-Sheikh) since i added this profile <br>
+The green dots on my [**GitHub** profile](https://github.com/Abdullah-Sheikh=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
 
 Thank you 🙏 😊  
 
 <!--
-**muhraff/muhraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abdullah-Sheikh/Abdullah-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
