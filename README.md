@@ -4,16 +4,18 @@
 
 ` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <img src="https://avatars3.githubusercontent.com/u/357098" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
-|<img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+|<img src="https://img.icons8.com/cute-clipart/128/000000/facebook-new.png" width="25" height="25" /> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
-|<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
+|<a href="default.asp"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="25" height="25" /> `https://twitter.com/Abdullah_shk_`</a>
 
-|<img src="https://img.icons8.com/ios-filled/50/000000/quora.png" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
-|
-
+|<img src="https://img.icons8.com/ios-filled/50/000000/quora.png" width="25" height="25" /> `https://www.linkedin.com/in/muhammad-abdullah-seo/`
 
 
 
+
+
+
+##
 ### Hi there 👋 
 
 
