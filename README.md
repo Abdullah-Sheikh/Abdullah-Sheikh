@@ -43,9 +43,9 @@
   <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0d0d0d" /> 
   <img src="https://img.shields.io/badge/Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-52f9ae" /> 
   <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9ef380" /> 
-  <img src="https://img.shields.io/badge/Jest-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c21325" /> 
+  <img src="https://img.shields.io/badge/Android-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c21325" /> 
    <img src="https://img.shields.io/badge/Oracle-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-bff754" /> 
-   <img src="https://img.shields.io/badge/laravel-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
+   <img src="https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f05340" /> 
    <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-35a7f1" /> 
   <!-- <img src="https://img.shields.io/badge/AdobePhotoshop-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2a10f5" /> 
    <img src="https://img.shields.io/badge/AdobeIllustrator-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-fe7b05" /> 
