@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
   <img src="https://img.shields.io/badge/BootStrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9b5ee4" /> 
   <img src="https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2accff" /> 
-  <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0d0d0d" /> 
   <img src="https://img.shields.io/badge/Ionic-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-52f9ae" /> 
   <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-9ef380" /> 
   <img src="https://img.shields.io/badge/Android-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c21325" /> 
