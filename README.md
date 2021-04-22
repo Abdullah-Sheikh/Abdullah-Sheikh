@@ -53,22 +53,13 @@
 
 ## I have been working on
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" class="rounded-1 mr-3" width="64" height="64" alt="angular">
- <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/android/android.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
- <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/ios/ios.png" class="rounded-1 mr-3" width="64" height="64" alt="babel">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" class="rounded-1 mr-3" width="64" height="64" alt="docker">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" class="rounded-1 mr-3" width="64" height="64" alt="dotnet">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" class="rounded-1 mr-3" width="64" height="64" alt="gulp">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" class="rounded-1 mr-3" width="64" height="64" alt="homebrew">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql">
- <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="64" height="64" alt="flutter logo"/> 
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/android/android.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" class="rounded-1 mr-3" width="64" height="64" alt="cpp">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" class="rounded-1 mr-3" width="64" height="64" alt="firebase">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" class="rounded-1 mr-3" width="64" height="64" alt="gulp">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="64" height="64" alt="wordpress">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Sheikh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
