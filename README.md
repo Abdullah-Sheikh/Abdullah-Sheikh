@@ -68,7 +68,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Sheikh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Abdullah-Sheikh github stats](https://github-readme-stats.vercel.app/api?)
+![Abdullah-Sheikh github stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Sheikh&show_icons=true)
 
 
 
