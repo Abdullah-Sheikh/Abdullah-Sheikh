@@ -1,5 +1,5 @@
 
-## 🔭 Android and Web Developer [![HitCount](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh.svg)](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh)
+## 🔭 Software Engineer [![HitCount](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh.svg)](http://hits.dwyl.com/Abdullah-Sheikh/Abdullah-Sheikh)
 
 
 ` 😄 Muhammad Abdullah` |  `🌱 Pakistan` | <a href="https://www.linkedin.com/in/muhammad-abdullah-seo"><img src="https://avatars3.githubusercontent.com/u/357098" width="25" height="25" alt="linkedin logo"/> `https://www.linkedin.com/in/muhammad-abdullah-seo/`</a>
